@@ -1,0 +1,14 @@
+// SORTING:
+// •  Basic Sorting Algorithms:
+// •	Bubble Sort: Compare adjacent elements and swap if needed.
+// •	Selection Sort: Find the minimum element and swap it to the front.
+// •	Insertion Sort: Build the sorted array one element at a time by inserting elements into the correct position.
+// •  Divide and Conquer:
+// •	Merge Sort: Divide the array into halves, recursively sort each half, and merge them back together.
+// •	Quick Sort: Choose a pivot, partition the array around the pivot, and recursively sort the partitions.
+// •  Heaps:
+// •	Heap Sort: Build a max heap, repeatedly extract the maximum element, and rebuild the heap until sorted.
+// •  Counting and Radix Sort:
+// •	Counting Sort: Count the occurrences of each element, then place them in the correct position.
+// •	Radix Sort: Sort numbers digit by digit starting from the least significant digit.
+
