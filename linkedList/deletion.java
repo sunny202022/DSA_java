@@ -104,10 +104,9 @@ public class deletion {
         public Node(int value){  //constructor
             this.value=value;
         }
-        public Node(int value, Node next){   //contructor
-            this.value=value;
-            this.next=next;
-        }
+        // public Node(int value, Node next){   //contructor
+        //     this.value=value;
+        //     this.next=next;
+        //}
     } 
 }
-
